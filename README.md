@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="MD. MASUM Banner" />
+  <img src="Banner.svg" width="100%" alt="MD. MASUM Banner" />
 </div>
 <h3 align="center">Frontend Web Developer</h3>
 <br/>
