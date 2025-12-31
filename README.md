@@ -32,7 +32,7 @@ I believe in writing simple, readable, and maintainable code.
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&theme=dark" />
 </p>
 
 <h3>
@@ -40,7 +40,7 @@ I believe in writing simple, readable, and maintainable code.
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
 </p>
 
 ## 📈 Current Stats
