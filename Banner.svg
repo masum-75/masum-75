@@ -1,0 +1,55 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff5f6d">
+        <animate attributeName="stop-color" values="#ff5f6d;#ffc371;#47c6ff;#845ec2;#ff5f6d" dur="15s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#845ec2">
+        <animate attributeName="stop-color" values="#845ec2;#47c6ff;#ffc371;#ff5f6d;#845ec2" dur="15s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" rx="20" fill="url(#grad1)"/>
+
+  <circle cx="100" cy="50" r="3" fill="white" opacity="0.3">
+    <animate attributeName="cy" values="50;350;50" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="100;700;100" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="100" r="2" fill="white" opacity="0.3">
+    <animate attributeName="cy" values="100;300;100" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="700;50;700" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="200" r="4" fill="white" opacity="0.2">
+    <animate attributeName="cy" values="200;50;200" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="400;600;400" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="160" y="80" width="480" height="240" rx="20" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.3)" stroke-width="1">
+    <animate attributeName="stroke" values="rgba(255,255,255,0.3);rgba(255,255,255,0.6);rgba(255,255,255,0.3)" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="400" y="150" text-anchor="middle" fill="black" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-size="24" font-weight="bold">
+    Tanbir Hasan MASUM
+  </text>
+
+  <text x="400" y="190" text-anchor="middle" fill="blue" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-size="22" font-weight="bold" opacity="0.8">
+     Full Stack Developer
+  </text>
+
+  <text x="200" y="250" fill="black" font-family="Segoe UI" font-size="16" opacity="0.6">Web Developer</text>
+
+  <g>
+    <image xlink:href="https://raw.githubusercontent.com/masum-75/masum-75/main/images/icons/react.png" x="400" y="260" width="35" height="35">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" repeatCount="indefinite"/>
+    </image>
+    <image xlink:href="https://raw.githubusercontent.com/masum-75/masum-75/main/images/icons/JavaScript.png" x="450" y="260" width="35" height="35">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+    </image>
+    <image xlink:href="https://raw.githubusercontent.com/masum-75/masum-75/main/images/icons/firebase.png" x="500" y="260" width="35" height="35">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+    </image>
+    <image xlink:href="https://raw.githubusercontent.com/masum-75/masum-75/main/images/icons/nextjs.png" x="550" y="260" width="35" height="35">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+    </image>
+  </g>
+</svg>
