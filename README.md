@@ -49,12 +49,10 @@ I believe in writing simple, readable, and maintainable code.
   <table border="0">
     <tr>
       <td>
-        <a href="https://git.io/streak-stats">
-          <img
-            src="https://streak-stats.demolab.com?user=masum-75&theme=react&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakNum=FFFFFF&currStreakLabel=FF1CF7&sideNums=00F0FF&sideLabels=00F0FF&dates=FFFFFF"
-            alt="GitHub Streak Stats"
-          />
-        </a>
+        <img
+          src="https://streak-stats.demolab.com?user=masum-75&theme=react&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakNum=FFFFFF&currStreakLabel=FF1CF7&sideNums=00F0FF&sideLabels=00F0FF&dates=FFFFFF"
+          alt="GitHub Streak Stats"
+        />
       </td>
     </tr>
   </table>
