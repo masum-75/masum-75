@@ -45,25 +45,16 @@ I believe in writing simple, readable, and maintainable code.
 
 ## 📈 Current Stats
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=masum-75&theme=react&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakNum=FFFFFF&currStreakLabel=FF1CF7&sideNums=00F0FF&sideLabels=00F0FF&dates=FFFFFF" alt="GitHub Streak" />
-        </a>
-      </td>
-      <!-- <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=masum-75&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-      </td> -->
-    </tr>
-  </table>
+  ## 📈 Current Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=masum-75&theme=react&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakNum=FFFFFF&currStreakLabel=FF1CF7&sideNums=00F0FF&sideLabels=00F0FF&dates=FFFFFF"
+    alt="GitHub Streak Stats"
+  />
+</p>
   
-  <!-- <br/>
-  
-  <a href="https://app.daily.dev/masum-75">
-  <img src="https://api.daily.dev/devcards/v2/default.png?type=wide" width="600" alt="Daily.dev Card" />
-</a> -->
-</div>
+ 
 
 ---
 
