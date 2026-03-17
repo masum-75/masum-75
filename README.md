@@ -10,9 +10,9 @@ I enjoy working with modern JavaScript frameworks and real-world projects.
 I believe in writing simple, readable, and maintainable code.
 
 ## 🚀 Current Activities
-- 🌱 Exploring **Next.js**
-- 🧩 Working on a **Hero Kidz Website**
-- ⚙️ Improving **React & JavaScript**
+- 🌱 Exploring **Machine Learning**
+- 🧩 Working on a **Genomia Website**
+- ⚙️ Improving **JavaScript & Next.js**
 
 ---
 
