@@ -108,12 +108,21 @@
   <rect x="290" y="142" width="220" height="2" rx="1" fill="url(#accentGrad)" opacity="0.6"/>
 
   <!-- Tags / Skills -->
-  <!-- Python tag -->
-  <rect x="290" y="158" width="72" height="24" rx="12" fill="rgba(88,166,255,0.4)" stroke="rgba(88,166,255,0.7)" stroke-width="1"/>
-  <text x="326" y="175" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#58a6ff" text-anchor="middle">🐍 Python</text>
-  <!-- React tag -->
-  <rect x="290" y="158" width="72" height="24" rx="12" fill="rgba(88,166,255,0.1)" stroke="rgba(88,166,255,0.4)" stroke-width="1"/>
-  <text x="326" y="175" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#58a6ff" text-anchor="middle">⚛ React</text>
+ <!-- Python tag -->
+<rect x="290" y="158" width="72" height="24" rx="12"
+      fill="rgba(88,166,255,0.4)" stroke="rgba(88,166,255,0.7)" stroke-width="1"/>
+<text x="326" y="175" font-family="'Segoe UI', sans-serif"
+      font-size="11" font-weight="600" fill="#58a6ff" text-anchor="middle">
+  🐍 Python
+</text>
+
+<!-- React tag -->
+<rect x="370" y="158" width="72" height="24" rx="12"
+      fill="rgba(88,166,255,0.1)" stroke="rgba(88,166,255,0.4)" stroke-width="1"/>
+<text x="406" y="175" font-family="'Segoe UI', sans-serif"
+      font-size="11" font-weight="600" fill="#58a6ff" text-anchor="middle">
+  ⚛ React
+</text>
 
   <!-- Next.js tag -->
   <rect x="372" y="158" width="72" height="24" rx="12" fill="rgba(188,140,255,0.1)" stroke="rgba(188,140,255,0.4)" stroke-width="1"/>
